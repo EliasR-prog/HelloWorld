@@ -4,7 +4,7 @@ plugins {
 }
 
 application{
-    mainClassname = 'Main'
+    mainClassName = 'Main'
 }
 
 sourceCompatibility = 1.8
